@@ -1,4 +1,4 @@
-
+// PROPS AND CONDITION RENDERING 
 
 import HTML from './assets/html.png';
 import CSS from './assets/CSS-Logo-2011.png';
