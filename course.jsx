@@ -1,4 +1,4 @@
-
+// props and condition rendering
 
 function Course(props){
     if(props.show==true){
@@ -20,4 +20,5 @@ else{
 }
 
 export default Course;
+
 
